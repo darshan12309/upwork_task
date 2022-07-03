@@ -10,9 +10,9 @@
 
 Using Terraform: (You may use public modules or create your own (take into account the time constraints we have during this interview)
 
-+ All resources should have the name `` upwork_task `` or prefixed with upwork_task_xxx. Example: upwork_task_vpc, upwork_task_gke, etc … 
-+ Create/deploy vpc on GCP.
-+ Create/deploy a PostreSQL database with 3 users; sa, test, and upwork. Passwords for all 3 accounts can be randomly generated. 
-+ Create a service account with the name upwork_task_sa and assign it the owner and admin roles. 
++ All resources should have the name `` upwork_task `` or prefixed with ``upwork_task_xxx.`` Example: ``upwork_task_vpc, upwork_task_gke`` etc … 
++ Create/deploy custom ``vpc`` on GCP. Use any sonfiguration to may deem necessary. 
++ Create/deploy a ``PostreSQL database`` with 3 users; ``sa, test, and upwork``. Passwords for all 3 accounts can be randomly generated. 
++ Create a ``service account`` with the name ``upwork_task_sa`` and assign it the ``owner`` and ``admin`` roles. 
 
 We would like to see how you work through the tasks and how you identify the prerequisite to achieve your tasks. This is not a must but it will be a plus to see how you formulate the syntax to pass multiple variables at once (iterate through multiple values) for example database users and how you can prefix the name prefix upwork_task  to all your resources. 
