@@ -1,6 +1,7 @@
 #  **<span>Upwork short task</span>** 
 
 ## GCP account:
+#### If you don't have a gcp account, we will provide you a test account once we commence the interview. You may begin writing your scripts before the interview or during the interview. It's absolutely up to you.
 ### Username:  drpopotest@gmail.com
 ### Passeord: 
 
