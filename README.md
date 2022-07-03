@@ -10,7 +10,7 @@
 
 Using Terraform: (You may use public modules or create your own (take into account the time constraints we have during this interview)
 
-+ All resources should have the name upwork_task or prefixed with upwork_task_xxx. Example: upwork_task_vpc, upwork_task_gke, etc … 
++ All resources should have the name ``` upwork_task ``` or prefixed with upwork_task_xxx. Example: upwork_task_vpc, upwork_task_gke, etc … 
 + Create/deploy vpc on GCP.
 + Create/deploy a PostreSQL database with 3 users; sa, test, and upwork. Passwords for all 3 accounts can be randomly generated. 
 + Create a service account with the name upwork_task_sa and assign it the owner and admin roles. 
