@@ -1,0 +1,12 @@
+resource "google_service_account" "sa" {
+  account_id   = "upwork_task_sa"
+}
+
+resource "google_service_account_iam_binding" "admin-account-iam" {
+  service_account_id = google_service_account.sa.name
+  role               = "roles/iam.owner"
+
+  members = [
+    "user:darshan12309@gmail.com",
+  ]
+}
