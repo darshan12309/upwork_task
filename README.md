@@ -4,7 +4,9 @@
 ### Username:  drpopotest@gmail.com
 ### Passeord: 
 
-## This is a simple set of tasks where you will have to deploy 3 sets of resources on GCP Using terraform. This task is just to ascertain your  workflow and thought process. You are not expected to solve the task with 100% accuracy; rather, you are being assessed on your ability to identify the task requirements and your ability to formulate a process to aid you solve the tasks at hand. 
+### This is a simple set of tasks where you will have to deploy 3 sets of resources on GCP Using terraform. 
+### This task is just to ascertain your workflow and thought process. You are not expected to solve the task with 100% accuracy.
+### Rather, you are being assessed on your ability to identify the task requirements and your ability to formulate a process to aid you solve the tasks at hand. 
 
 Using Terraform: (You may use public modules or create your own (take into account the time constraints we have during this interview)
 
